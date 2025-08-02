@@ -52,5 +52,7 @@ Clean UX with Dashboard Layout
 # Conclusion:
 This dashboard is a compact solution that translates raw patient data into meaningful insights. It empowers healthcare professionals with a clear, visual snapshot of emergency room operations, helping them to make faster, informed decisions.
 
+# PROJECT
+- <a href=""> Dashboard with file</a>
 
 
