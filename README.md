@@ -5,21 +5,21 @@ This project showcases an interactive Hospital Emergency Room Dashboard designed
 To build an interactive Power BI dashboard that analyzes emergency room performance by tracking patient volume, wait times, satisfaction levels, admission rates, and departmental referrals. The goal is to provide hospital administrators with real-time insights for improving patient flow and care delivery.
 
 # Key KPIs Monitored:
-✅ Total No. of Patients
+ Total No. of Patients
 
-⏳ Average Wait Time
+ Average Wait Time
 
-🌟 Patient Satisfaction Score
+ Patient Satisfaction Score
 
-🏥 Admission Status (% Admitted vs Not Admitted)
+ Admission Status (% Admitted vs Not Admitted)
 
-👨‍⚕️ Patient Referral by Department
+ Patient Referral by Department
 
-👵 Patient Demographics by Age
+ Patient Demographics by Age
 
-🕒 Attend Time Status (On-time vs Delayed)
+ Attend Time Status (On-time vs Delayed)
 
-👩‍⚕️ Gender-wise Patient Status
+ Gender-wise Patient Status
 
 # Features:
 Interactive Dashboard with professional UI/UX
