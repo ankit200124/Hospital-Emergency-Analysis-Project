@@ -55,6 +55,6 @@ This dashboard is a compact solution that translates raw patient data into meani
 # PROJECT
 - <a href="https://github.com/ankit200124/Hospital-Emergency-Analysis-Project/blob/main/hospital%20project.xlsm"> Dashboard with file</a>
 
-# DASHBOARD SS
+# DASHBOARD SCREENSHOT
 <img width="1266" height="542" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/23e40dbd-15f6-4527-8698-796a51f7011f" />
 
