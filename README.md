@@ -53,6 +53,8 @@ Clean UX with Dashboard Layout
 This dashboard is a compact solution that translates raw patient data into meaningful insights. It empowers healthcare professionals with a clear, visual snapshot of emergency room operations, helping them to make faster, informed decisions.
 
 # PROJECT
-- <a href=""> Dashboard with file</a>
+- <a href="https://github.com/ankit200124/Hospital-Emergency-Analysis-Project/blob/main/hospital%20project.xlsm"> Dashboard with file</a>
 
+# DASHBOARD SS
+<img width="1266" height="542" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/23e40dbd-15f6-4527-8698-796a51f7011f" />
 
